@@ -28,7 +28,7 @@ public class MailerService {
                 );
         helper.setTo(to);
 
-        helper.setSubject("Java Developer Application – Sanjay Singh | Java | Spring Boot");
+        helper.setSubject("Java Developer – Sanjay Singh | Java | Spring Boot");
 
 
         String body = """
