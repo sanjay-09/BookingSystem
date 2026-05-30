@@ -48,7 +48,7 @@ public class MailerService {
 
         Regards,
         Sanjay Singh
-        Phone: 9084211368
+        Phone: 9084211367
         """.formatted(companyName);
 
         helper.setText(body);
