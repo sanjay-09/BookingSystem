@@ -27,7 +27,7 @@ public class HomeController {
 
         System.out.println(this.jwtConfiguration.getKey());
 
-        return "Bye";
+        return "Changes by dev2";
 
     }
 
