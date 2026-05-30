@@ -49,7 +49,7 @@ public class MailerService {
 
         Regards,
         Sanjay Singh
-        Phone: 9084211368
+        Phone: 
         """.formatted(companyName);
 
         helper.setText(body);
