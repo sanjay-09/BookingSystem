@@ -28,7 +28,7 @@ public class MailerService {
                 );
         helper.setTo(to);
 
-        helper.setSubject("Java Developer Application – Sanjay Singh | Java | Spring Boot");
+        helper.setSubject("Java Developer – Sanjay Singh | Java | Spring Boot");
 
 
         String body = """
@@ -40,8 +40,7 @@ public class MailerService {
 
         My experience includes:
 
-        • Developing scalable backend systems using Java and Spring Boot
-        • Building an in-house ETL platform (EDM) from scratch for hedge fund organizations
+        • Developing scalable backend systems using Java and Spring Boot and Redis
  
      
 
