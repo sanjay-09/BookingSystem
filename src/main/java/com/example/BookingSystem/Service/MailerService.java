@@ -42,11 +42,10 @@ public class MailerService {
 
         • Developing scalable backend systems using Java and Spring Boot
         • Building an in-house ETL platform (EDM) from scratch for hedge fund organizations
-        • Working on REST APIs, database operations, and enterprise applications.
+ 
+     
 
-        I believe my experience aligns well with your requirements. Please find my resume attached for your review.
-
-        Looking forward to hearing from you.
+        
 
         Regards,
         Sanjay Singh
